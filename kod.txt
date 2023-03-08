@@ -1,3 +1,4 @@
 Neki tekst nadograden prvi put
 Pa opet
 Nova grana 1
+Nova grana 2
